@@ -70,6 +70,8 @@ with open('README.md', 'w') as outfile:
                         first_line = infile.readline().rstrip()
                         table_of_contents.append([first_line, readme])
 
+    print(table_of_contents)
+    
     # 목차 생성
     outfile.seek(0)
     outfile.write("# Effective Java \n\n")
