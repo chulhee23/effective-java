@@ -10,6 +10,6 @@
 - [아이템 06. 불필요한 객체 생성을 피하라](Chapter02/item06.md)
 - [아이템 07. 다 쓴 객체 참조를 해제하라](Chapter02/item07.md)
 - [아이템 08. finalizer 와 cleaner 사용을 피하라](Chapter02/item08.md)
-- [try-finally 보다는 try-with-resources 를 사용하라](Chapter02/item09.md)
+- [아이템 09. try-finally 보다는 try-with-resources 를 사용하라](Chapter02/item09.md)
 
 
