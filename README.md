@@ -1,7 +1,8 @@
 # Effective Java 
 
 
-## 2장 객체 생성과 파괴 
+## 3장 모든 객체의 공통 메서드 
+- [아이템 10. equals 는 일반 규약을 지켜 재정의 하라](Chapter03/item10.md)
 - [아이템 01. 생성자 대신 정적 팩터리 메서드를 고려하라](Chapter02/item01.md)
 - [아이템 02.  생성자에 매개변수가 많다면 빌더를 고려하라](Chapter02/item02.md)
 - [아이템 03. private 생성자나 열거 타입으로 싱글턴임을 보증하라](Chapter02/item03.md)
