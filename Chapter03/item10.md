@@ -290,4 +290,3 @@ https://www.baeldung.com/introduction-to-autovalue
 4. 핵심 필드들이 모두 일치하는지
 5. not null 
 
-ㅌ
